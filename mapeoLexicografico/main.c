@@ -1,5 +1,10 @@
 #include <stdio.h>
-
+/* Universidad de San Carlos de Guatemala
+   Facultad de Ingenieria
+   Escuela de Ciencias y Sistemas
+   Edgar Enrique Patzan Yoc
+   200915715
+*/
 int main(int argc, char *argv[])
 {
     int seleccion,dimensiones,posV,posW,posX,posY,posZ,sizeV,sizeW,sizeX,sizeY,sizeZ,totalSize,totalPos;
